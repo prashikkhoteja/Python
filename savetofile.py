@@ -8,4 +8,4 @@ for a in range(2):
 with open("Students.txt", "w") as file:
 
     for name, marks in students.items():
-        file.write(f"{name},{marks} \n")
+        file.write(f"{name}:{marks} \n")
