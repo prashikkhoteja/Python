@@ -1,2 +1,2 @@
-Prasshik,88 
-hello,99 
+Prasshik:99 
+hello:88 
