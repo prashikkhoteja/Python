@@ -22,8 +22,7 @@ def add_students():
     print("\n")
     for b in range(j):
         name = input(f"Enter the name of student number {b+1}: ").lower()
-        students[name] = int(
-            input(f"Enter the marks of the student {b+1}: "))
+        students[name] = int(input(f"Enter the marks of the student {b+1}: "))
         print("\n")
 
 
